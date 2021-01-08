@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557959972252",
+    "firebase_url": "https://toopfood-272018.firebaseio.com",
+    "project_id": "toopfood-272018",
+    "storage_bucket": "toopfood-272018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557959972252:android:f757bff396638519053459",
+        "android_client_info": {
+          "package_name": "com.toopfood.apptoopfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557959972252-srkjt4qsbl7nvrkb951f7k19fl9jgamn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yTZLlDGW4eo3dPeXCRQalZTiQdtlE5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557959972252-srkjt4qsbl7nvrkb951f7k19fl9jgamn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
